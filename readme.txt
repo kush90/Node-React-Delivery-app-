@@ -15,7 +15,7 @@ he will see all the requests which of the status are 'checked-in' and assign
 one of the request to deliver its destination by clicking 
 the button to update the status of the request to "delivering" to the system.
 When he reachs to the destination, he will click button to update the status of the request 
-to 'delivered' to the system where the process of a clients' request is done.
+to 'delivered' to the system where the process of a client's request is done.
 
 
 Techologies are used in as follows:
