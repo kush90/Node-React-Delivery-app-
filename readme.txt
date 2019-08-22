@@ -25,6 +25,7 @@ Back-end
 Front-end
     -React
     -Redux
+    -redux-thunk
 
 
 
