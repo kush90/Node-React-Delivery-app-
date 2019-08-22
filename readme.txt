@@ -24,6 +24,7 @@ Back-end
     -Node.js,express.js,jsonwebtoken,moongoose,nexmo
 Front-end
     -React
+    -Redux
 
 
 
