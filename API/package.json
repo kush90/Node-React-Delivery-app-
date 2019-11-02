@@ -17,7 +17,7 @@
     "express": "^4.16.4",
     "jsonwebtoken": "^8.5.0",
     "moment": "^2.24.0",
-    "mongoose": "^5.4.16",
+    "mongoose": "^5.7.5",
     "mongoose-dateonly": "^1.0.6",
     "nexmo": "^2.4.1",
     "nodemon": "^1.18.10"
