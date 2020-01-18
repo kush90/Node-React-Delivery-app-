@@ -1,4 +1,4 @@
--The project is about Express products like DHL.
+-The project is like delivery the things.
 -The scenario of this project is to pickup the parcel
 from the requested clients who will request on the website by filling the request form.
 When the pickup man log in the system as a role of pickup man,
